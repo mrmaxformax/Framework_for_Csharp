@@ -1,8 +1,0 @@
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WPAutomation.dll
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WPAutomation.pdb
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WebDriver.dll
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WebDriver.Support.dll
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WebDriver.xml
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\bin\Debug\WebDriver.Support.xml
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\obj\Debug\WPAutomation.dll
-C:\Users\maxte\Source\Repos\pft\WPAutomation\WPAutomation\obj\Debug\WPAutomation.pdb
