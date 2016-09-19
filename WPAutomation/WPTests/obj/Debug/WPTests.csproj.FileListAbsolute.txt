@@ -1,0 +1,11 @@
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WPTests.dll
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WPTests.pdb
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WPAutomation.dll
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WebDriver.dll
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WebDriver.Support.dll
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WPAutomation.pdb
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WebDriver.xml
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\bin\Debug\WebDriver.Support.xml
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\obj\Debug\WPTests.csprojResolveAssemblyReference.cache
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\obj\Debug\WPTests.dll
+C:\Users\maxte\Source\Repos\pft\WPAutomation\WPTests\obj\Debug\WPTests.pdb
